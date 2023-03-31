@@ -15,6 +15,9 @@
 </div>
 
 <div>
+  
+  <br><br><br>
+  
 <h3 align="left">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ About me: </h3>
 
   <img align="right" alt="Felipe-avatar" width="220px"  src="https://cdn.pixabay.com/photo/2022/02/20/14/01/avatar-7024621__340.png"  />
@@ -34,14 +37,23 @@
   
 
 </div>
-<h3 align="center"> About my activities: </h3>
+
+
+<br><br><br>
+
+<h3 align="center"> About my activities on GitHub: </h3>
+
+
+ ⠀⠀⠀⠀⠀⠀⠀![snake gif](https://github.com/feliperech/feliperech/blob/output/github-contribution-grid-snake.svg)
+ 
 ⠀⠀⠀
 
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
 
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
 
-<h3 align="center"> What is my skills: </h3>
+<br><br><br>
+<h3 align="center"> Knowledge </h3>
 
 <h4  align="center"> Frontend </h4>
 
@@ -78,4 +90,3 @@
 
 </div>
 
-![snake gif](https://github.com/feliperech/feliperech/blob/output/github-contribution-grid-snake.svg)
