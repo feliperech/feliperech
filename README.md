@@ -1,6 +1,6 @@
 <h1 align="center"> < Hello, world! /> </h1>
 
-<h2> Hello visitor! Welcome to my GitHub profile! </h2>
+<h2> Hello, visitor! Welcome to my GitHub profile! </h2>
 
 <div style="display: inline_block">
   <p align="left" height="50px"> I'm Felipe Gerber, Electrical engineer and full stack developer. I'm 25 and I was born in Paraná, Brazil. This page contains some things about me and my career. Feel free to contact me on my social medias to know more about:  </p>
