@@ -4,8 +4,10 @@
 
 <div>
   <p align="left" style="display: inline_block"> I'm Felipe Gerber, Electrical engineer and full stack developer. I'm 25 and I was born in Paraná, Brazil. This page contains some things about me and my career. Feel free to contact me on my social medias to know more about:  </p>
-  <img align="right" style="display: inline_block" alt="Felipe-HTML" width="300px"  src="https://cdn.pixabay.com/photo/2022/02/20/14/01/avatar-7024621__340.png"  />
+  <img align="right" alt="Felipe-HTML" width="300px"  src="https://cdn.pixabay.com/photo/2022/02/20/14/01/avatar-7024621__340.png"  />
 </div>
+
+<br />
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/felipegerberdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
