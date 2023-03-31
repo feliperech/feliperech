@@ -2,9 +2,8 @@
 
 <h2> Hello visitor! Welcome to my GitHub profile! </h2>
 
-<div>
-  <p align="left" style="display: inline_block" height="50px"> I'm Felipe Gerber, Electrical engineer and full stack developer. I'm 25 and I was born in Paraná, Brazil. This page contains some things about me and my career. Feel free to contact me on my social medias to know more about:  </p>
-  <img align="right" alt="Felipe-HTML" width="350px"  src="https://cdn.pixabay.com/photo/2022/02/20/14/01/avatar-7024621__340.png"  />
+<div style="display: inline_block">
+  <p align="left" height="50px"> I'm Felipe Gerber, Electrical engineer and full stack developer. I'm 25 and I was born in Paraná, Brazil. This page contains some things about me and my career. Feel free to contact me on my social medias to know more about:  </p>
 </div>
 
 
@@ -16,7 +15,9 @@
 </div>
 
 <div>
-<h3 align="center"> About me: </h3>
+<h3 align="left">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ About me: </h3>
+
+  <img align="right" alt="Felipe-avatar" width="220px"  src="https://cdn.pixabay.com/photo/2022/02/20/14/01/avatar-7024621__340.png"  />
 
 
 👨‍🎓 • Graduated in Electrical Engineer from State University of Maringá in 2022 
@@ -30,38 +31,40 @@
 🚀 • Studying Back-end fundamentals in Trybe Education
 
 💻 • Studying Golang, Java and Python
+  
 
 </div>
 <h3 align="center"> About my activities: </h3>
+⠀⠀⠀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
 
 <h3 align="center"> What is my skills: </h3>
 
 <h4  align="center"> Frontend </h4>
 
 <div  align="center" style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" width="50px" margin: "20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-Js" width="80px" margin: "20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-  <img align="center" alt="Felipe-HTML" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  />
-  <img align="center" alt="Felipe-CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="Felipe-React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Felipe-Node" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img align="center" alt="Felipe-HTML" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  />
+  <img align="center" alt="Felipe-CSS3" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Felipe-React" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Felipe-Node" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div>
 
 <h4  align="center"> Backend </h4>
 <div  align="center" style="display: inline_block"><br>
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 <h4  align="center" > Others </h4>
@@ -69,9 +72,9 @@
 <div align="center" style="display: inline_block"><br>
 
 
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-<img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align="center" alt="Felipe-React" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
 </div>
 
