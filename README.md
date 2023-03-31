@@ -1,8 +1,17 @@
 <h1 align="center"> < Hello, world! /> </h1>
 
-<h2> Hello, gest! Welcome to my GitHub profile! </h2>
+<h2> Hello visitor! Welcome to my GitHub profile! </h2>
 
-<p> I'm Felipe Gerber, Electrical engineer and full stack developer. I'm 25 and I was born in Brazil. This page contains somethings about me. Feel free to contact me on my social medias:  </p>
+<p> I'm Felipe Gerber, Electrical engineer and full stack developer. I'm 25 and I was born in Paraná, Brazil. This page contains some things about me and my career. Feel free to contact me on my social medias to know more about:  </p>
+
+
+<div> 
+  <a href="https://www.linkedin.com/in/felipegerberdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/felipe.erg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@CircuitandoEL" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:dev.felipegerber@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 <h3 align="center"> About me: </h3>
 
