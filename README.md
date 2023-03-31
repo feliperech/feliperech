@@ -1,8 +1,11 @@
-# < Hello, world! />
+<h1 align="center"> < Hello, world! /> </h1>
 
-## Welcome to my GitHub profile! It's a pleasure to have you here!
+<h2> Hello, gest! Welcome to my GitHub profile! </h2>
+
+<p> I'm Felipe Gerber, Electrical engineer and full stack developer. I'm 25 and I was born in Brazil. This page contains somethings about me. Feel free to contact me on my social medias:  </p>
 
 <h3 align="center"> About me: </h3>
+
 
 👨‍🎓 • Graduated in Electrical Engineer from State University of Maringá in 2022 
 
