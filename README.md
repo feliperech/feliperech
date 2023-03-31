@@ -58,4 +58,4 @@
 
 </div>
 
-![Snake animation](https://github.com/feliprech/feliperech/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/feliperech/feliperech/blob/output/github-contribution-grid-snake.svg)
