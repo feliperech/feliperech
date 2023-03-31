@@ -3,11 +3,10 @@
 <h2> Hello visitor! Welcome to my GitHub profile! </h2>
 
 <div>
-  <p align="left" style="display: inline_block"> I'm Felipe Gerber, Electrical engineer and full stack developer. I'm 25 and I was born in Paraná, Brazil. This page contains some things about me and my career. Feel free to contact me on my social medias to know more about:  </p>
-  <img align="right" alt="Felipe-HTML" width="300px"  src="https://cdn.pixabay.com/photo/2022/02/20/14/01/avatar-7024621__340.png"  />
+  <p align="left" style="display: inline_block" height="50px"> I'm Felipe Gerber, Electrical engineer and full stack developer. I'm 25 and I was born in Paraná, Brazil. This page contains some things about me and my career. Feel free to contact me on my social medias to know more about:  </p>
+  <img align="right" alt="Felipe-HTML" width="350px"  src="https://cdn.pixabay.com/photo/2022/02/20/14/01/avatar-7024621__340.png"  />
 </div>
 
-<br />
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/felipegerberdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -17,6 +16,7 @@
   <a href = "mailto:dev.felipegerber@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div>
 <h3 align="center"> About me: </h3>
 
 
@@ -32,7 +32,7 @@
 
 💻 • Studying Golang, Java and Python
 
-
+</div>
 <h3 align="center"> About my activities: </h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
@@ -44,7 +44,7 @@
 <h4  align="center"> Frontend </h4>
 
 <div  align="center" style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-Js" width="50px" margin: "20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
   <img align="center" alt="Felipe-HTML" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  />
   <img align="center" alt="Felipe-CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
