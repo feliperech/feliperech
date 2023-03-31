@@ -1,12 +1,12 @@
 # < Hello, world! />
 
-## Wellcome to my GitHub profile! It's a pleasure to have you here!
+## Welcome to my GitHub profile! It's a pleasure to have you here!
 
 <h3 align="center"> About me: </h3>
 
-👨‍🎓 • Graduate in Electrical Engineer from State University of Maringá, 2022 
+👨‍🎓 • Graduated in Electrical Engineer from State University of Maringá, 2022 
 
-🎓 • Postgraduate in Java Development (in progress since 2023, March)
+🎓 • Postgraduate student in Java Development (in progress since March, 2023)
 
 👨‍💻 • Web developer front-end
 
