@@ -37,7 +37,7 @@
   
 
 </div>
-<br>
+<br><br><br>
 
 <h3 align="center"> About my activities </h3>
 
@@ -52,7 +52,7 @@
 
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
 
-<br><br><br>
+<br>
 <h3 align="center"> Knowledge </h3>
 
 <h4  align="center"> Frontend </h4>
