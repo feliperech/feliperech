@@ -1,18 +1,21 @@
-### Hi there 👋
+# < Hello, world! />
 
-<!--
-**feliperech/feliperech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Wellcome to my GitHub profile! It's a pleasure to have you here! F
 
-Here are some ideas to get you started:
+👨‍🎓 • Graduate in Electrical Engineer from State University of Maringá, 2022 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
+🎓 • Postgraduate in Java Development (in progress since 2023, March)
 
+👨‍💻 • Web developer front-end
+
+😊 • Pronouns: He/Him
+
+🚀 • Studying Back-end fundamentals in Trybe Education
+
+💻 • Studying Golang, Java and Python
+
+### Wellcome to my personal GitHub profile! It's a pleasure to have you here. 
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
