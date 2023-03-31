@@ -37,8 +37,6 @@
   
 
 </div>
-
-
 <br><br><br>
 
 <h3 align="center"> About my activities </h3>
