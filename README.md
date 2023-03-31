@@ -18,7 +18,7 @@
   
   <br><br><br>
   
-<h3 align="left">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ About me: </h3>
+<h3 align="left">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ About me </h3>
 
   <img align="right" alt="Felipe-avatar" width="220px"  src="https://cdn.pixabay.com/photo/2022/02/20/14/01/avatar-7024621__340.png"  />
 
@@ -41,16 +41,18 @@
 
 <br><br><br>
 
-<h3 align="center"> About my activities on GitHub: </h3>
+<h3 align="center"> About my activities </h3>
+
+<h4 align="center" > Contributions  </h4>
+
+ ⠀⠀⠀⠀⠀⠀![snake gif](https://github.com/feliperech/feliperech/blob/output/github-contribution-grid-snake.svg)
 
 
- ⠀⠀⠀⠀⠀⠀⠀![snake gif](https://github.com/feliperech/feliperech/blob/output/github-contribution-grid-snake.svg)
- 
-⠀⠀⠀
+<h4 align="center" > GH Stats  </h4>
 
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
 
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
 
 <br><br><br>
 <h3 align="center"> Knowledge </h3>
