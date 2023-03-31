@@ -21,9 +21,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
 
-<h3 align="center"> What is my skills: </h3>
+<h3 align="center"> About my skills: </h3>
 
-<h4  align="center"> Frontend </h4>
+<h4  align="center"> Front-end </h4>
 
 <div  align="center" style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,7 +35,7 @@
 <img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div>
 
-<h4  align="center"> Backend </h4>
+<h4  align="center"> Back-end </h4>
 <div  align="center" style="display: inline_block"><br>
 <img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="Felipe-React" width="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
