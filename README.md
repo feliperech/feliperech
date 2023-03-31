@@ -48,7 +48,7 @@
 
 <h4 align="center" > GH Stats  </h4>
 
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
 
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
 
