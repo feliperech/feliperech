@@ -58,8 +58,7 @@
 <h4  align="center"> Frontend </h4>
 
 <div  align="center" style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" width="80px" margin: "20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
+  <img align="center" alt="Felipe-Js" width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Felipe-HTML" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  />
   <img align="center" alt="Felipe-CSS3" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Felipe-React" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
