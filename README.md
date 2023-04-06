@@ -48,9 +48,9 @@
 
 <h4 align="center" > GH Stats  </h4>
 
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feliperech&theme=radical)
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=feliperech&count_private=true&theme=radical)
 
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical)](https://github.com/feliperech/github-readme-stats)
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliperech&theme=radical&count_private=true)](https://github.com/feliperech/github-readme-stats)
 
 <br>
 <h3 align="center"> Knowledge </h3>
